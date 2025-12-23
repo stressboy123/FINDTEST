@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+pandas
+pdfplumber
+paddleocr
+pdf2image
+opencv-python-headless
+camelot-py[cv]
+# tabula-py  # optional: requires Java
